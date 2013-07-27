@@ -1,0 +1,5 @@
+name: ProtectiveMobHeads
+description: Protects you from several mobs.
+main: com.evilco.bukkit.mobheads.MobHeadsPlugin
+version: "${project.version}"
+depend: []
